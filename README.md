@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BojanGeorgievski
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning react and next.js
-
+- Hi, I’m @BojanGeorgievski
+- I’m interested in front-end web development and producing music.
+- I’m currently learning and perfecting my skill with react and next.js
+- I'm a positive person, who likes to socialize a lot and I'm a team player.
