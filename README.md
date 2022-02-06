@@ -3,7 +3,7 @@
 - I’m currently learning and perfecting my skill with react and next.js
 - I'm a positive person, who likes to socialize a lot and I'm a team player.
 
-You can demo my project on the links below:
+You can demo my projects on the links below:
 
 https://camp-app-demo.herokuapp.com/
 
