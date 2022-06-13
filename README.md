@@ -10,3 +10,5 @@ https://camp-app-demo.herokuapp.com/
 https://cryptoapp-demo.netlify.app/
 
 https://fooddemo-app.netlify.app/
+
+https://movie-finder-app-bojan.herokuapp.com/
