@@ -5,8 +5,6 @@
 
 You can demo my projects on the links below:
 
-https://camp-app-demo.herokuapp.com/
-
 https://cryptoapp-demo.netlify.app/
 
 https://fooddemo-app.netlify.app/
